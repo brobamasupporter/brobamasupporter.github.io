@@ -2,6 +2,7 @@
 layout: post
 title: A Blog Post
 categories: Project
+---
 
 ## My First C-Sharp Project
 
