@@ -14,4 +14,4 @@ I have 3700 hours logged in Counter Strike: Global Offensive.
 
 ### Contact me
 
-[email@domain.com](mailto:000032010@student.thomroth.ac.uk)
+[000032010@student.thomroth.ac.uk](mailto:000032010@student.thomroth.ac.uk)
